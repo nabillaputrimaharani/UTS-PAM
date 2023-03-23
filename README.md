@@ -1,5 +1,6 @@
 # UTS-PAM
+ UTS PAM INSTITUT TEKNOLOGI SUMATERA
 
-Pengembangan Aplikasi Mobile - RB
+Aplikasi Tiket Kereta 
+UTS Pemrograman Aplikasi Mobile - RB
 Nabilla Putri Maharani
-120140177
